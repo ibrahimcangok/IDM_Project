@@ -1,7 +1,7 @@
 /* style.css */
 
 h1 {
-    background-color: red;
+    background-color: green;
     color: white; /* Yazı rengini beyaz yapmak için */
     padding: 10px; /* Opsiyonel: Yazıyı içeride daha güzel görüntülemek için padding ekleyebilirsiniz */
 }
